@@ -6,7 +6,7 @@
 /*   By: yichan <yichan@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/14 19:49:17 by yichan            #+#    #+#             */
-/*   Updated: 2023/02/01 14:10:08 by yichan           ###   ########.fr       */
+/*   Updated: 2023/03/13 21:32:57 by yichan           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,7 @@
 # define EXIT_MASK	0
 
 /* Colors */
-# define BLACK		0
+# define WHITE		-1
 
 /* Player prefs */
 # define FPS		60
