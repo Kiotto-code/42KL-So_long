@@ -1,6 +1,6 @@
 NAME		= so_long
 CC			= gcc
-CFLAGS		= -Wall -Wextra -Werror -g -fsanitize=address -g
+CFLAGS		= -Wall -Wextra -Werror -g #-fsanitize=address -g
 RM			= rm -rf
 LIBFT		= libft
 
